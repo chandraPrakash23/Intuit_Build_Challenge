@@ -1,0 +1,11 @@
+product,category,quantity,price,region
+Laptop,Electronics,5,999.99,North
+Mouse,Electronics,20,29.99,South
+Desk,Furniture,3,349.99,East
+Chair,Furniture,8,199.99,West
+Monitor,Electronics,10,299.99,North
+Keyboard,Electronics,15,79.99,South
+Bookshelf,Furniture,4,149.99,East
+Lamp,Furniture,12,49.99,West
+Tablet,Electronics,7,499.99,North
+Webcam,Electronics,25,89.99,South
